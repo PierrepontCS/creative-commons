@@ -1,0 +1,190 @@
+nav > .container-fluid{
+  background-color: #0A733A;
+  color:white !important;
+  font-family: Georgia;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+
+#owl{
+  background-image: url(http://dev.pierrepontschool.org/wp-content/uploads/2016/11/Pierrepont-BannerLogo.png);
+  max-width: 95%;
+  float:left;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.responsive{
+  width:70%;
+  height: auto;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  text-align: center;
+  color: #0A733A;
+  font-family: Georgia;
+  text-decoration: underline;
+}
+
+.navbar-default .navbar-brand{
+  color: white;
+}
+
+#on, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+ background-color: #06632e !important; /*<- dark green */
+ background-image: url();
+ color: white;
+}
+
+.photo{
+  border: 5px;
+  border-style: groove;
+}
+
+.desc{
+  font-style: italic;
+}
+
+.writing{
+  background-color: grey;
+  /* height: 630px; */
+}
+
+#box{
+    background-color: white !important;
+    /*height: 530px;*/
+    border: 10px double #0A733A;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+#box>a{
+  color: #06632e;
+  font-family: Georgia;
+}
+
+.test{
+  background-image: url(https://www.ajc.com/resizer/ZnQxOqyC5IwsCNtbwv2wWf30hbI=/800x0/cloudfront-us-east-1.images.arcpublishing.com/ajc/PMPZ2QBIB32K7KN3BGJ3IXQHLY.jpg);
+  background-repeat: repeat-x;
+  background-size: 100%;
+}
+
+li:hover {
+  background-color: #06632e;
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  color:white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+  background-color: #06632e !important;
+  color: white !important;
+  background-image: none;
+}
+
+.dropdown-menu{
+  color: #0A733A;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background-color: #06632e !important;
+}
+
+.navbar-default .navbar-toggle{
+  border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: white !important;
+}
+
+.navbar-brand{
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+.navbar-brand:hover{
+  background-color: #06632e !important;
+  color: white !important;
+}
+
+.footer{
+  background: url(http://dev.pierrepontschool.org/wp-content/uploads/2016/11/Pierrepont-FooterLogo.png) right 10px no-repeat #e6e6e6;
+    line-height: 1.5em;
+    min-height: 140px;
+    border-top: 4px solid #0a733a;
+    margin-top: 80px;
+    background-size: 100px;
+    padding-top: 20px;
+    padding-left: 40px;
+    font: 300 14px/1.4em Arial, sans-serif;
+    color: #666666;
+}
+
+
+.vid{
+  margin-top: 40px;
+}
+
+.dance{
+  text-align: center;
+  font-family: Georgia;
+  color: #0a733a;
+}
+
+.line{
+  border-top: 3px solid #e6e6e6;
+  padding: 30px;
+
+}
+
+.music{
+  padding-top: 20px;
+}
+
+.pad{
+  padding-bottom: 20px;
+}
+
+#v{
+  padding-bottom: 0px !important;
+}
+
+#boxx{
+    background-color: white !important;
+    /*height: 530px;*/
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 20px;
+    box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 15px rgba(0, 0, 0, 0.2);
+}
+
+.push{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.prose{
+  text-align: left !important;
+}
+
+.tab{
+  padding-left: 12px;
+}
+
+.c{
+  text-align: center !important;
+}
